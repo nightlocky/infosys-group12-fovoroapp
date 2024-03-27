@@ -27,7 +27,6 @@
             android:theme="@style/Theme.Material3.Light.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
@@ -35,35 +34,25 @@
             android:name=".StoreList.WesternStoreActivity"
             android:exported="false" />
         <activity
-            android:name=".RegisterActivity"
-            android:exported="false"
-            android:theme="@style/Theme.Material3.Light.NoActionBar" />
-        <activity
             android:name=".TopdownListActivity"
             android:exported="false" />
-        <activity
-            android:name=".FoodReviewActivity"
-            android:exported="false" />
+
         <activity
             android:name=".StoreReviewActivity"
             android:exported="false" />
         <activity
             android:name=".WeeklyReviewActivity"
             android:exported="false" />
-        <activity
-            android:name=".SlideActivity"
-            android:exported="false" />
-        <activity
-            android:name=".MainActivity"
-            android:exported="true">
-
-            <!-- <intent-filter> -->
-            <!-- <action android:name="android.intent.action.MAIN" /> -->
-
-
-            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
-            <!-- </intent-filter> -->
-        </activity>
+        <!-- Commented out the entire activity tag for Login -->
+        <!-- <activity -->
+        <!--     android:name=".Login" -->
+        <!--     android:exported="true" -->
+        <!--     android:theme="@style/Theme.Material3.Light.NoActionBar"> -->
+        <!--     <intent-filter> -->
+        <!--         <action android:name="android.intent.action.MAIN" /> -->
+        <!--         <category android:name="android.intent.category.LAUNCHER" /> -->
+        <!--     </intent-filter> -->
+        <!-- </activity> -->
     </application>
 
 </manifest>
