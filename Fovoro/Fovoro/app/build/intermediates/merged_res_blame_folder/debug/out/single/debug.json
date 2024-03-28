@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.myapplication.app-main-56:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/drawable_chicken_rice.png.flat",
+        "source": "com.example.myapplication.app-main-56:/drawable/chicken_rice.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/drawable_malaysian_restaurant.jpg.flat",
+        "source": "com.example.myapplication.app-main-56:/drawable/malaysian_restaurant.jpg"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/layout_activity_login.xml.flat",
+        "source": "com.example.myapplication.app-main-56:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/drawable_uploadimg.jpeg.flat",
+        "source": "com.example.myapplication.app-main-56:/drawable/uploadimg.jpeg"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.myapplication.app-main-56:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/layout_comment_item.xml.flat",
+        "source": "com.example.myapplication.app-main-56:/layout/comment_item.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/drawable_like.xml.flat",
+        "source": "com.example.myapplication.app-main-56:/drawable/like.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/layout_activity_register.xml.flat",
+        "source": "com.example.myapplication.app-main-56:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.myapplication.app-main-56:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/drawable_japanese.png.flat",
+        "source": "com.example.myapplication.app-main-56:/drawable/japanese.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/drawable_malay_yejiang_fan.png.flat",
+        "source": "com.example.myapplication.app-main-56:/drawable/malay_yejiang_fan.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myapplication.app-main-56:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/layout_activity_topdown_list.xml.flat",
+        "source": "com.example.myapplication.app-main-56:/layout/activity_topdown_list.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myapplication.app-main-56:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.myapplication.app-main-56:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/navigation_nav_graph2.xml.flat",
+        "source": "com.example.myapplication.app-main-56:/navigation/nav_graph2.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.myapplication.app-main-56:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/drawable_mike_profile_picture.JPG.flat",
+        "source": "com.example.myapplication.app-main-56:/drawable/mike_profile_picture.JPG"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/drawable_fovoro.png.flat",
+        "source": "com.example.myapplication.app-main-56:/drawable/fovoro.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/drawable_btn_left.xml.flat",
+        "source": "com.example.myapplication.app-main-56:/drawable/btn_left.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/xml_backup_rules.xml.flat",
+        "source": "com.example.myapplication.app-main-56:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/layout_activity_western_store.xml.flat",
+        "source": "com.example.myapplication.app-main-56:/layout/activity_western_store.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/layout_activity_main.xml.flat",
+        "source": "com.example.myapplication.app-main-56:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/layout_activity_food_review.xml.flat",
+        "source": "com.example.myapplication.app-main-56:/layout/activity_food_review.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myapplication.app-main-56:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/drawable_bg_username.xml.flat",
+        "source": "com.example.myapplication.app-main-56:/drawable/bg_username.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/layout_layout_main.xml.flat",
+        "source": "com.example.myapplication.app-main-56:/layout/layout_main.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.myapplication.app-main-56:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/drawable_western.png.flat",
+        "source": "com.example.myapplication.app-main-56:/drawable/western.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/drawable_nasi_padang.png.flat",
+        "source": "com.example.myapplication.app-main-56:/drawable/nasi_padang.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/layout_activity_weekly_review.xml.flat",
+        "source": "com.example.myapplication.app-main-56:/layout/activity_weekly_review.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/layout_nav_header.xml.flat",
+        "source": "com.example.myapplication.app-main-56:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.myapplication.app-main-56:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.myapplication.app-main-56:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myapplication.app-main-56:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/navigation_nav_graph.xml.flat",
+        "source": "com.example.myapplication.app-main-56:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.myapplication.app-main-56:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/drawable_taiwanese.png.flat",
+        "source": "com.example.myapplication.app-main-56:/drawable/taiwanese.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/layout_activity_store_review.xml.flat",
+        "source": "com.example.myapplication.app-main-56:/layout/activity_store_review.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.myapplication.app-main-56:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/layout_activity_register2.xml.flat",
+        "source": "com.example.myapplication.app-main-56:/layout/activity_register2.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/layout_layout_menu.xml.flat",
+        "source": "com.example.myapplication.app-main-56:/layout/layout_menu.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/layout_weekly_review_row.xml.flat",
+        "source": "com.example.myapplication.app-main-56:/layout/weekly_review_row.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/layout_activity_account_page.xml.flat",
+        "source": "com.example.myapplication.app-main-56:/layout/activity_account_page.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/drawable_btn_right.xml.flat",
+        "source": "com.example.myapplication.app-main-56:/drawable/btn_right.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myapplication.app-main-56:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-54:/menu_nav_menu2.xml.flat",
+        "source": "com.example.myapplication.app-main-56:/menu/nav_menu2.xml"
+    }
+]
