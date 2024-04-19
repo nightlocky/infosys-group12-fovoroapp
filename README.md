@@ -1,6 +1,6 @@
 # infosys-group12-fovoroapp
-50.001 Team 12 \
 Fovoro\
+50.001 Team 12 \
 Members\
 1007200 Hsieh Chia Tang\
 1006910  Edison Ang\
