@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://sutd-android-7e41f-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">190018249393</string>
+    <string name="google_api_key" translatable="false">AIzaSyCN1ClMnm0JZTTCQoLGrQo_b71IbG6djp0</string>
+    <string name="google_app_id" translatable="false">1:190018249393:android:f33f46b5276ded50533890</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCN1ClMnm0JZTTCQoLGrQo_b71IbG6djp0</string>
+    <string name="google_storage_bucket" translatable="false">sutd-android-7e41f.appspot.com</string>
+    <string name="project_id" translatable="false">sutd-android-7e41f</string>
+</resources>
