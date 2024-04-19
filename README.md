@@ -8,7 +8,7 @@ Members
 1007491 Mikhail Y. Jeffrey\
 1007166 Hengchang Qi \
 1006901 Mohamed Azfar \
-1007010 Muthu Ramaswamy \
+1007010 Muthu Ramaswamy 
 
 Fovoro is your ultimate companion for exploring the culinary delights of the Singapore University of Technology and Design (SUTD) campus.
 
